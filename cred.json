@@ -1,5 +1,6 @@
 {
     "username": "dfdf",
     "pass": 123,
-    "type": "t2.micro"
+    "type": "t2.micro",
+    "firewall": "ClusterIP"
 }
