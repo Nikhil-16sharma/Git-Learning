@@ -1,7 +1,5 @@
 {
     "username": "dfdf",
     "pass": 123,
-    "type": "t2.micro",
-    "AMI": "Nik",
-    "storage":"S3"
+    "type": "t2.micro"
 }
