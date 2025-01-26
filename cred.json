@@ -1,4 +1,5 @@
 {
     "username": "dfdf",
-    "pass": 123
+    "pass": 123,
+    "type": "t2.micro"
 }
